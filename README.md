@@ -8,8 +8,8 @@ This is a repository for demonstrating how to create a DOI([![DOI](https://zenod
 
 ### November 11-15
 
-The Ethos Of Open Science
-Open Tools And Resources
-Open Data
-Open Code
-Open Results
+- The Ethos Of Open Science 
+- Open Tools And Resources 
+- Open Data
+- Open Code
+- Open Results
